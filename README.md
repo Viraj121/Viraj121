@@ -8,6 +8,7 @@ I'm a Junior QA Tester with a background in B.E. in IT, and I’m passionate abo
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [gavasviraj@gmail.com](mailto:gavasviraj@gmail.com)
+* 🖥️  See my portfolio at [work](http:///protfolioo-nine.vercel.app/)
 * 🧠  I'm learning Selenium with Java for Automation testing
 * 🤝  I'm open to collaborating on app building and testing
 * ⚡  want to change things a bit everyday
