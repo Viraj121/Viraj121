@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Viraj Gavas
 ===================================================================================================================================
 
-QA Tester
+QA Engineer
 ---------
 
 I'm a Junior QA Tester with a background in B.E. in IT, and I’m passionate about delivering reliable, efficient, and high-quality software. I’m driven by curiosity and a commitment to continuous improvement, particularly in the areas of automation, AI, and web development. With a solid foundation in tech and programming, I love diving into new technologies and exploring innovative approaches in quality assurance.
